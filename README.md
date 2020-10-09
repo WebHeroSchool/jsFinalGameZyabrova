@@ -1,2 +1,2 @@
-# jsFinalGameZyabrova
-final project
+# jsFinalZyabrova
+finalProject
